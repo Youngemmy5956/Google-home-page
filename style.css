@@ -1,7 +1,7 @@
 .first-section >ul {
   display: flex;
   list-style: none;
-  gap: 2rem;
+  gap: 1rem;
   align-items: center;
 }
 
